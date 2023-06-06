@@ -27,7 +27,7 @@ I'm a software developer at [@PvPLegacy](https://github.com/PvPLegacy). I specia
 
 - 🅿️ Edits font files to slim down package
 - 🗑️ Removes unused icons and css
-- ⚖️ Significantly removes bundle size
+- ⚖️ Significantly decreases bundle size
 
 <!--
 **Mexican-Man/Mexican-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
