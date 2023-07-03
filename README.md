@@ -2,7 +2,14 @@
 
 I'm a software developer at [@PvPLegacy](https://github.com/PvPLegacy). I specialize in fullstack web applications and websites.
 
-## Check out some public projects I'm involved with ✨
+## Check out some public projects I'm involved with
+
+### [Stardew Valley save editor](https://mexican-man.github.io/stardew-save-editor/)
+<img src="/img/sdv.png" alt="stardew valley save editor" height="200">
+
+- 🌐 Works on all platforms
+- 💿 Keeps automatic backups
+- 🧨 Dynamic & responsive previews
 
 ### [PvP Legacy website](https://pvplegacy.net/)
 
