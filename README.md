@@ -16,7 +16,7 @@ I'm a software developer at [@PvPLegacy](https://github.com/PvPLegacy). I specia
 - 🛬 Landing page for PvP Legacy, hosted via Cloudflare Pages. It's fast, simple, and lightweight.
 - 🛒 We're currently in late-stage development of a new Stripe-based storefront.
 
-### [PvP Legacy Kit Viewer](https://kits.pvplegacy.net/)
+### [PvP Legacy Kit Viewer](https://kits.pvplegacy.net/DEBUG)
 <img src="/img/kit.png" alt="kit viewer preview" height="300">
 
 - 👆 Fully interactive site hosting user generated content
