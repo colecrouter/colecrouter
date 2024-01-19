@@ -1,4 +1,4 @@
-# My name is Cole
+# My Name is Cole
 
 I'm a software developer at [@PvPLegacy](https://github.com/PvPLegacy). I specialize in fullstack web applications and websites.
 
