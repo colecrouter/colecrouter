@@ -8,6 +8,9 @@ I specialize in fullstack web applications and websites.
 
 ![image](https://github.com/user-attachments/assets/de63edb1-b8ff-48b8-bdd8-d7e985f3ee6f)
 
+### [Edge-Compatible Push Notifications](https://github.com/colecrouter/web-push-browser)
+
+First(?) push notification library that can run entire in the browser, or in any JS runtime. 
 
 ### [Stardew Valley save editor](https://colecrouter.github.io/stardew-save-editor/)
 <img src="/img/sdv.png" alt="stardew valley save editor" height="200">
