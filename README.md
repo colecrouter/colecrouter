@@ -1,8 +1,13 @@
 # My Name is Cole
 
-I'm a software developer at [@PvPLegacy](https://github.com/PvPLegacy). I specialize in fullstack web applications and websites.
+I specialize in fullstack web applications and websites.
 
-## Check out some public projects I'm involved with
+## Check out some projects I'm involved with
+
+### [Grim Anticheat website](https://grim.ac/)
+
+![image](https://github.com/user-attachments/assets/de63edb1-b8ff-48b8-bdd8-d7e985f3ee6f)
+
 
 ### [Stardew Valley save editor](https://colecrouter.github.io/stardew-save-editor/)
 <img src="/img/sdv.png" alt="stardew valley save editor" height="200">
