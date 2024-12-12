@@ -8,8 +8,7 @@ I specialize in fullstack web applications and websites.
 
 Full drag-and-drop node system w/ causality checks, docs built from scratch.
 
-![image](https://github.com/user-attachments/assets/fd5d4a5f-217a-4645-a585-adca6620cfd8)
-
+![image](https://github.com/user-attachments/assets/65070c49-52d7-496a-920f-5c154bfdfdf6)
 
 ### [Grim Anticheat website](https://grim.ac/)
 
