@@ -4,6 +4,11 @@ I specialize in fullstack web applications and websites.
 
 ## Check out some projects I'm involved with
 
+### [Proof-of-Concept Minecraft Game-Mode Designer](https://not-gamemode-creator.pages.dev/)
+
+![image](https://github.com/user-attachments/assets/fd5d4a5f-217a-4645-a585-adca6620cfd8)
+
+
 ### [Grim Anticheat website](https://grim.ac/)
 
 ![image](https://github.com/user-attachments/assets/de63edb1-b8ff-48b8-bdd8-d7e985f3ee6f)
