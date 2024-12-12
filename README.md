@@ -6,6 +6,8 @@ I specialize in fullstack web applications and websites.
 
 ### [Proof-of-Concept Minecraft Game-Mode Designer](https://not-gamemode-creator.pages.dev/)
 
+Full drag-and-drop node system w/ causality checks, docs built from scratch.
+
 ![image](https://github.com/user-attachments/assets/fd5d4a5f-217a-4645-a585-adca6620cfd8)
 
 
