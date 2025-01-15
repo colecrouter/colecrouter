@@ -21,6 +21,7 @@ First(?) push notification library that can run entire in the browser, or in any
 ### [Stardew Valley save editor](https://colecrouter.github.io/stardew-save-editor/)
 <img src="/img/sdv.png" alt="stardew valley save editor" height="200">
 
+- 🏆 1000+ users per day
 - 🌐 Works on all platforms
 - 💿 Keeps automatic backups
 - 🧨 Dynamic & responsive previews
