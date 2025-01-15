@@ -4,6 +4,14 @@ I specialize in fullstack web applications and websites.
 
 ## Check out some projects I'm involved with
 
+### [Stardew Valley save editor](https://colecrouter.github.io/stardew-save-editor/)
+<img src="/img/sdv.png" alt="stardew valley save editor" height="200">
+
+- 🏆 1000+ users per day
+- 🌐 Works on all platforms
+- 💿 Keeps automatic backups
+- 🧨 Dynamic & responsive previews
+
 ### [Proof-of-Concept Minecraft Game-Mode Designer](https://not-gamemode-creator.pages.dev/)
 
 Full drag-and-drop node system w/ causality checks, docs built from scratch.
@@ -17,14 +25,6 @@ Full drag-and-drop node system w/ causality checks, docs built from scratch.
 ### [Edge-Compatible Push Notifications](https://github.com/colecrouter/web-push-browser)
 
 First(?) push notification library that can run entire in the browser, or in any JS runtime. 
-
-### [Stardew Valley save editor](https://colecrouter.github.io/stardew-save-editor/)
-<img src="/img/sdv.png" alt="stardew valley save editor" height="200">
-
-- 🏆 1000+ users per day
-- 🌐 Works on all platforms
-- 💿 Keeps automatic backups
-- 🧨 Dynamic & responsive previews
 
 ### [PvP Legacy website](https://pvplegacy.net/)
 
