@@ -12,11 +12,13 @@ I specialize in fullstack web applications and websites.
 - 💿 Keeps automatic backups
 - 🧨 Dynamic & responsive previews
 
-# ### [Proof-of-Concept Minecraft Game-Mode Designer](https://not-gamemode-creator.pages.dev/)
-#
-# Full drag-and-drop node system w/ causality checks, docs built from scratch.
-#
-# ![image](https://github.com/user-attachments/assets/ 65070c49-52d7-496a-920f-5c154bfdfdf6)
+<!--
+### [Proof-of-Concept Minecraft Game-Mode Designer](https://not-gamemode-creator.pages.dev/)
+
+Full drag-and-drop node system w/ causality checks, docs built from scratch.
+
+![image](https://github.com/user-attachments/assets/ 65070c49-52d7-496a-920f-5c154bfdfdf6)
+-->
 
 ### [Grim Anticheat website](https://grim.ac/)
 
