@@ -12,6 +12,13 @@ I specialize in fullstack web applications and websites.
 - 💿 Keeps automatic backups
 - 🧨 Dynamic & responsive previews
 
+### [Steam Vault](https://steamvault.info/)
+
+<img src="https://github.com/user-attachments/assets/b1fc2f4d-cca3-4761-8c70-4f08f095cc7c" alt="steam vault" height="200">
+
+- 🎮 Find rarest game achievements
+- 🏆 Compare with friends
+- 📋 Hybrid API/cache solutions
 <!--
 ### [Proof-of-Concept Minecraft Game-Mode Designer](https://not-gamemode-creator.pages.dev/)
 
