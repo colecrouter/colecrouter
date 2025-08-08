@@ -12,7 +12,7 @@ I specialize in fullstack web applications and websites.
 - 💿 Keeps automatic backups
 - 🧨 Dynamic & responsive previews
 
-### [WIP] [Steam Vault](https://steamvault.info/](https://steamvault.info/user/76561198058776501)
+### [WIP] [Steam Vault](https://steamvault.info/user/76561198058776501)
 
 <img src="https://github.com/user-attachments/assets/b1fc2f4d-cca3-4761-8c70-4f08f095cc7c" alt="steam vault" height="200">
 
