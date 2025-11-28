@@ -7,13 +7,20 @@ I specialize in fullstack web applications and websites.
 ### [Stardew Valley save editor](https://colecrouter.github.io/stardew-save-editor/) ([Repository](https://github.com/colecrouter/stardew-save-editor))
 <img src="/img/sdv.png" alt="stardew valley save editor" height="200">
 
-- 🏆 2000+ users per day
+- 🏆 2000+ visits per day
 - 🌐 Works on all platforms
 - 💿 Automatic backups
 - 🧨 Dynamic & responsive previews
 
-### [WIP] [Steam Vault](https://steamvault.info/user/76561198058776501) ([Repository](https://github.com/colecrouter/rarest-achievement))
+### [Epicenter](https://github.com/EpicenterHQ/epicenter)
+<img height="300" alt="epicenter logo" src="https://github.com/user-attachments/assets/693c17ad-276b-461a-89f9-dcdce5e88f5a" />
 
+- Local-first database for everything (notes, files, recordings, etc.)
+- Readable storage in plaintext & SQLite
+- Open source & integrates with other apps
+- YC backed
+
+### [WIP] [Steam Vault](https://steamvault.info/user/76561198058776501) ([Repository](https://github.com/colecrouter/rarest-achievement))
 <img src="https://github.com/user-attachments/assets/b1fc2f4d-cca3-4761-8c70-4f08f095cc7c" alt="steam vault" height="200">
 
 - 🎮 Find rarest game achievements
